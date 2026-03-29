@@ -1,0 +1,10 @@
+
+> perfume-e-commerce@0.1.0 dev
+> next dev
+
+⚠ Port 3000 is in use by process 18576, using available port 3002 instead.
+▲ Next.js 16.2.1 (Turbopack)
+- Local:         http://localhost:3002
+- Network:       http://172.27.116.31:3002
+✓ Ready in 329ms
+
