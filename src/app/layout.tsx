@@ -22,6 +22,32 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "Scentara Ceylon | Haute Parfumerie",
   description: "The Art of Invisible Luxury.",
+  icons: {
+    icon: "/logo.jpg",
+    apple: "/logo.jpg",
+  },
+  openGraph: {
+    title: "Scentara Ceylon | Haute Parfumerie",
+    description: "The Art of Invisible Luxury.",
+    url: "https://scentaraceylon.com",
+    siteName: "Scentara Ceylon",
+    images: [
+      {
+        url: "/logo.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Scentara Ceylon",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Scentara Ceylon | Haute Parfumerie",
+    description: "The Art of Invisible Luxury.",
+    images: ["/logo.jpg"],
+  },
 };
 
 export default function RootLayout({
