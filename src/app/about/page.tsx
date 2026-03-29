@@ -40,7 +40,7 @@ export default function AboutPage() {
   const img3Y = useTransform(scrollYProgress, [0, 1], ["0%", "15%"]);
 
   return (
-    <main ref={containerRef} className="w-full bg-[var(--bg)] pt-32 pb-40">
+    <main ref={containerRef} className="w-full bg-[#FFFFFF] pt-32 pb-40">
 
       {/* ── Hero ────────────────────────────────────────────── */}
       <section className="min-h-[75vh] flex flex-col items-center justify-center text-center px-6 mb-32 relative overflow-hidden">
@@ -56,7 +56,7 @@ export default function AboutPage() {
           transition={{ duration: 0.8 }}
         >
           <hr className="w-8 border-gold" />
-          <span className="text-[0.7rem] uppercase tracking-[0.3em] text-gold font-medium">Maison Aurum · Est. 2019</span>
+          <span className="text-[0.7rem] uppercase tracking-[0.3em] text-gold font-medium">Maison Scentara Ceylon · Est. 2019</span>
           <hr className="w-8 border-gold" />
         </motion.div>
 
@@ -74,7 +74,7 @@ export default function AboutPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.8 }}
         >
-          Founded in a small Parisian atelier in 2019, Maison Aurum was born out of a rebellion against noise. In a world saturated with loud fragrances, we chose to speak in whispers.
+          Founded in a small Parisian atelier in 2019, Maison Scentara Ceylon was born out of a rebellion against noise. In a world saturated with loud fragrances, we chose to speak in whispers.
         </motion.p>
 
         <motion.div
@@ -241,7 +241,7 @@ export default function AboutPage() {
           <div className="absolute inset-0 bg-gradient-to-br from-ink/80 via-ink/60 to-ink/90" />
 
           <div className="relative z-10">
-            <span className="text-[0.7rem] uppercase tracking-[0.3em] text-gold">Discover Aurum</span>
+            <span className="text-[0.7rem] uppercase tracking-[0.3em] text-gold">Discover Scentara Ceylon</span>
             <h2 className="font-display italic text-[clamp(2rem,5vw,4rem)] mt-4 mb-6">Find Your Signature</h2>
             <p className="text-white/60 font-light max-w-md mx-auto mb-10">
               Explore over 240 unique fragrances crafted by master perfumers from around the world.

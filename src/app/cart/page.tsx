@@ -22,11 +22,11 @@ export default function CartInterface() {
   }, []);
 
   if (!mounted) {
-    return <div className="min-h-screen bg-[var(--bg-2)]"></div>; // Fast skeleton
+    return <div className="min-h-screen bg-[#FFFFFF]"></div>; // Fast skeleton
   }
 
   return (
-    <main className="w-full min-h-screen bg-[var(--bg-2)] pt-32 pb-24 px-6">
+    <main className="w-full min-h-screen bg-[#FFFFFF] pt-32 pb-24 px-6">
       <div className="max-w-6xl mx-auto">
         <h1 className="font-display italic text-5xl md:text-6xl text-ink mb-2">Your Cart</h1>
         <p className="font-body text-muted mb-12">

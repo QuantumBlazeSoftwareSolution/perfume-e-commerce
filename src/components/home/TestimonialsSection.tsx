@@ -18,7 +18,7 @@ const testimonials = [
   },
   {
     id: 3,
-    quote: "Wearing Aurum feels like an invisible armor of elegance. The compliments are endless, but the personal joy is what remains.",
+    quote: "Wearing Scentara Ceylon feels like an invisible armor of elegance. The compliments are endless, but the personal joy is what remains.",
     author: "Sophie L.",
   }
 ];

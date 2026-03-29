@@ -174,9 +174,9 @@ export default function ProfilePage() {
 
   return (
     <div className="min-h-screen bg-[#FFFFFF] font-sans text-[#141210] selection:bg-[#B8965A]/20">
-      <div className="max-w-[960px] mx-auto px-6 py-12 flex flex-col md:flex-row gap-12">
+      <div className="max-w-[960px] mx-auto px-6 pt-36 pb-12 flex flex-col md:flex-row gap-12">
         {/* === LEFT SIDEBAR === */}
-        <div className="md:w-[280px] shrink-0 md:sticky top-12 h-fit flex flex-col">
+        <div className="md:w-[280px] shrink-0 md:sticky top-32 h-fit flex flex-col">
           {/* Avatar Area */}
           <div className="flex flex-col items-center md:items-start mb-10">
             <motion.div
@@ -196,7 +196,7 @@ export default function ProfilePage() {
               John Doe
             </h2>
             <p className="font-sans font-light text-[0.8rem] text-[#9A8C82] mb-3">
-              johndoe@aurum.com
+              johndoe@scentaraceylon.com
             </p>
 
             <div className="flex items-center gap-2 px-3 py-1 bg-gradient-to-r from-[#B8965A] to-[#D4AF37] rounded-full">
@@ -288,7 +288,7 @@ export default function ProfilePage() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-6">
                   {[
                     { label: "Full Name", value: "John Doe" },
-                    { label: "Email Address", value: "johndoe@aurum.com" },
+                    { label: "Email Address", value: "johndoe@scentaraceylon.com" },
                     { label: "Phone Number", value: "+94 77 123 4567" },
                     { label: "Date of Birth", value: "14 May 1990" },
                     { label: "Gender", value: "Male" },

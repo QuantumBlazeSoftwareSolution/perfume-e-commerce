@@ -30,7 +30,7 @@ export const products: Product[] = [
   {
     id: "p-01",
     name: "Lumière Dorée",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 280,
     concentration: "EDP",
     scentFamily: ["Floral", "Oriental"],
@@ -51,7 +51,7 @@ export const products: Product[] = [
   {
     id: "p-02",
     name: "Oud Noir Absolu",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 320,
     concentration: "Parfum",
     scentFamily: ["Woody", "Spicy"],
@@ -72,7 +72,7 @@ export const products: Product[] = [
   {
     id: "p-03",
     name: "Pétale de Soie",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 250,
     salePrice: 210,
     concentration: "EDP",
@@ -94,7 +94,7 @@ export const products: Product[] = [
   {
     id: "p-04",
     name: "Éclat d'Agrumes",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 210,
     concentration: "EDT",
     scentFamily: ["Citrus", "Fresh"],
@@ -115,7 +115,7 @@ export const products: Product[] = [
   {
     id: "p-05",
     name: "Feu de Bois",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 260,
     concentration: "EDP",
     scentFamily: ["Woody", "Spicy"],
@@ -136,7 +136,7 @@ export const products: Product[] = [
   {
     id: "p-06",
     name: "Brume d'Océan",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 230,
     concentration: "EDP",
     scentFamily: ["Fresh", "Musky"],
@@ -157,7 +157,7 @@ export const products: Product[] = [
   {
     id: "p-07",
     name: "Vanille Éthérée",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 290,
     concentration: "Parfum",
     scentFamily: ["Gourmand", "Oriental"],
@@ -178,7 +178,7 @@ export const products: Product[] = [
   {
     id: "p-08",
     name: "Racine de Vétiver",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 240,
     concentration: "EDP",
     scentFamily: ["Woody", "Earthy"],
@@ -199,7 +199,7 @@ export const products: Product[] = [
   {
     id: "p-09",
     name: "Jasmin Nocturne",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 270,
     salePrice: 245,
     concentration: "EDP",
@@ -221,7 +221,7 @@ export const products: Product[] = [
   {
     id: "p-10",
     name: "Cuir Impérial",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 310,
     concentration: "Parfum",
     scentFamily: ["Woody", "Leather"],
@@ -242,7 +242,7 @@ export const products: Product[] = [
   {
     id: "p-11",
     name: "Ambre Sacré",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 300,
     concentration: "Parfum",
     scentFamily: ["Oriental", "Spicy"],
@@ -263,7 +263,7 @@ export const products: Product[] = [
   {
     id: "p-12",
     name: "Iris Poudré",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 330,
     concentration: "EDP",
     scentFamily: ["Floral", "Powdery"],
@@ -284,7 +284,7 @@ export const products: Product[] = [
   {
     id: "p-13",
     name: "Nectar de Figue",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 220,
     concentration: "EDT",
     scentFamily: ["Fruity", "Green"],
@@ -305,7 +305,7 @@ export const products: Product[] = [
   {
     id: "p-14",
     name: "Santal Cendré",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 280,
     concentration: "EDP",
     scentFamily: ["Woody", "Musky"],
@@ -326,7 +326,7 @@ export const products: Product[] = [
   {
     id: "p-15",
     name: "Café Noir & Rose",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 260,
     concentration: "EDP",
     scentFamily: ["Gourmand", "Floral"],
@@ -347,7 +347,7 @@ export const products: Product[] = [
   {
     id: "p-16",
     name: "Miel Sauvage",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 210,
     salePrice: 180,
     concentration: "EDT",
@@ -369,7 +369,7 @@ export const products: Product[] = [
   {
     id: "p-17",
     name: "Narcisse de Lymphe",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 290,
     concentration: "Parfum",
     scentFamily: ["Floral", "Green"],
@@ -390,7 +390,7 @@ export const products: Product[] = [
   {
     id: "p-18",
     name: "Musc Blanc Invisible",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 200,
     concentration: "EDP",
     scentFamily: ["Musky", "Fresh"],
@@ -411,7 +411,7 @@ export const products: Product[] = [
   {
     id: "p-19",
     name: "Encens d'Hiver",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 270,
     concentration: "EDP",
     scentFamily: ["Oriental", "Woody"],
@@ -432,7 +432,7 @@ export const products: Product[] = [
   {
     id: "p-20",
     name: "Rêve de Pamplemousse",
-    brand: "AURUM",
+    brand: "SCENTARA CEYLON",
     price: 230,
     concentration: "EDT",
     scentFamily: ["Citrus", "Fruity"],

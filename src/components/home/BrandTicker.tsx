@@ -39,7 +39,7 @@ export default function BrandTicker() {
     gsap.getTweensOf(".ticker-track-2").forEach(t => t.play());
   };
 
-  const text1 = "SILLAGE · EAU DE PARFUM · MAISON AURUM · HAUTE PARFUMERIE · PARIS · NICHE FRAGRANCE · 2025 COLLECTION · ";
+  const text1 = "SILLAGE · EAU DE PARFUM · MAISON SCENTARA CEYLON · HAUTE PARFUMERIE · PARIS · NICHE FRAGRANCE · 2025 COLLECTION · ";
   const text2 = "★ BERGAMOT ★ OUD NOIR ★ ROSE ABSOLUE ★ VETIVER ★ AMBERGRIS ★ SANDALWOOD ★ IRIS ★ ";
 
   return (

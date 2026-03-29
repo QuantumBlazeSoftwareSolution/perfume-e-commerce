@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   }
 
   return {
-    title: `${product.name} | AURUM Haute Parfumerie`,
+    title: `${product.name} | Scentara Ceylon Haute Parfumerie`,
     description: product.description,
   };
 }

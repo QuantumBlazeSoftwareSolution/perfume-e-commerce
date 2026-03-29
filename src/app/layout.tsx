@@ -20,7 +20,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "AURUM | Haute Parfumerie",
+  title: "Scentara Ceylon | Haute Parfumerie",
   description: "The Art of Invisible Luxury.",
 };
 

@@ -364,8 +364,8 @@ export default function Navbar() {
 
           {/* Logo (Center) */}
           <Link href="/" className="flex-1 md:flex-none text-center z-50 relative pointer-events-auto">
-            <h1 className="font-display italic font-medium text-3xl tracking-widest text-[var(--gold)] [background-image:var(--gold-gradient)] text-transparent bg-clip-text">
-              AURUM
+            <h1 className="font-display italic font-medium text-3xl tracking-widest [background-image:var(--gold-gradient)] text-transparent bg-clip-text">
+              SCENTARA CEYLON
             </h1>
           </Link>
 

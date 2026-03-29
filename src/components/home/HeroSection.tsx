@@ -188,7 +188,7 @@ export default function HeroSection() {
           <div className="hero-bottle relative w-full h-full">
             <Image
               src="/images/bottle-amber.png"
-              alt="AURUM signature perfume bottle"
+              alt="Scentara Ceylon signature perfume bottle"
               fill
               className="object-contain drop-shadow-[0_40px_80px_rgba(201,169,110,0.25)]"
               priority

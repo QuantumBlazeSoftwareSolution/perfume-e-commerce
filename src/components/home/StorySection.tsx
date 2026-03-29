@@ -80,7 +80,7 @@ function InteractiveStack() {
                 </div>
                 <div className="h-[15%] flex items-center justify-center">
                   <span className="font-display italic text-ink/40 text-xs tracking-widest uppercase">
-                    AURUM · Collection 2025
+                    SCENTARA CEYLON · Collection 2025
                   </span>
                 </div>
               </div>
@@ -151,7 +151,7 @@ export default function StorySection() {
             className="text-muted text-[0.65rem] uppercase tracking-[0.3em] font-light whitespace-nowrap rotate-180" 
             style={{ writingMode: "vertical-rl" }}
           >
-            MAISON AURUM · EST. 2019 · PARIS
+            MAISON SCENTARA CEYLON · EST. 2019 · PARIS
           </span>
         </motion.div>
 
@@ -169,7 +169,7 @@ export default function StorySection() {
               viewport={{ once: true }}
               transition={{ delay: 0.2 }}
             >
-              Born in a small Parisian atelier, Aurum was founded on a singular philosophy: silence is the ultimate luxury. In a world of overwhelming noise, our fragrances speak in whispers, leaving a trail of intrigue long after you&apos;ve gone.
+              Born in a small Parisian atelier, Scentara Ceylon was founded on a singular philosophy: silence is the ultimate luxury. In a world of overwhelming noise, our fragrances speak in whispers, leaving a trail of intrigue long after you&apos;ve gone.
             </motion.p>
             <motion.p
               initial={{ y: 20, opacity: 0 }}

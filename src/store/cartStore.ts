@@ -78,7 +78,7 @@ export const useCartStore = create<CartState>()(
       }
     }),
     {
-      name: 'aurum-cart-storage',
+      name: 'scentara-ceylon-cart-storage',
     }
   )
 );

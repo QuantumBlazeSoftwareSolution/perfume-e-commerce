@@ -10,8 +10,8 @@ export default function Footer() {
           {/* Brand Col */}
           <div className="flex flex-col col-span-1 md:col-span-2 lg:col-span-1">
             <Link href="/" className="mb-6 inline-block">
-              <h2 className="font-display italic font-medium text-3xl tracking-widest text-[var(--gold)] [background-image:var(--gold-gradient)] text-transparent bg-clip-text">
-                AURUM
+              <h2 className="font-display italic font-medium text-3xl tracking-widest [background-image:var(--gold-gradient)] text-transparent bg-clip-text">
+                SCENTARA CEYLON
               </h2>
             </Link>
             <p className="text-white/60 font-light text-sm leading-relaxed mb-8 max-w-sm">
@@ -47,7 +47,7 @@ export default function Footer() {
 
           {/* Links Brand Col */}
           <div className="flex flex-col">
-            <h4 className="font-body text-xs tracking-[0.2em] text-white/40 uppercase mb-6">Maison Aurum</h4>
+            <h4 className="font-body text-xs tracking-[0.2em] text-white/40 uppercase mb-6">Maison Scentara Ceylon</h4>
             <ul className="space-y-4">
               {["Our Story", "The Ingredients", "Boutiques", "Careers", "Contact Us"].map((link) => (
                 <li key={link}>
@@ -82,7 +82,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="flex flex-col md:flex-row items-center justify-between pt-8 border-t border-white/10 text-[0.7rem] text-white/40 uppercase tracking-widest gap-4">
-          <p>&copy; {new Date().getFullYear()} Maison Aurum. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Maison Scentara Ceylon. All Rights Reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

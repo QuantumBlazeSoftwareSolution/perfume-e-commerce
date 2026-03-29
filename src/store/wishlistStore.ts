@@ -31,7 +31,7 @@ export const useWishlistStore = create<WishlistState>()(
       clearWishlist: () => set({ likedProductIds: [] }),
     }),
     {
-      name: 'aurum-wishlist-storage',
+      name: 'scentara-ceylon-wishlist-storage',
     }
   )
 );

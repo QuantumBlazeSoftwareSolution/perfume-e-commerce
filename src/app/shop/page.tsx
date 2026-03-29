@@ -3,7 +3,7 @@ import ProductGrid from "@/components/shop/ProductGrid";
 import SortDropdown from "@/components/shop/SortDropdown";
 
 export const metadata = {
-  title: "Shop Collection | AURUM Haute Parfumerie",
+  title: "Shop Collection | Scentara Ceylon Haute Parfumerie",
   description: "Explore our curated collection of 240+ luxury fragrances.",
 };
 
